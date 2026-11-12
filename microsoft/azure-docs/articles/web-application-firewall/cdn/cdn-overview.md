@@ -25,7 +25,9 @@ Azure Web Application Firewall on Azure Content Delivery Network is a global and
 
 A web application firewall (WAF) policy links to any content delivery network (CDN) endpoint in your subscription. You can deploy new rules within minutes, so you can respond quickly to changing threat patterns.
 
-![Diagram that shows how Azure Web Application Firewall on Azure Content Delivery Network takes action on incoming requests.](../media/cdn-overview/waf-cdn-overview.png)
+# Diagram that shows how Azure Web Application 
+<img width="573" height="520" alt="image" src="https://github.com/user-attachments/assets/ff5a261a-6804-4ca6-960b-196f6e91c5f3" />
+
 
 ## WAF policy and rules
 
